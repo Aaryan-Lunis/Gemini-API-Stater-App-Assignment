@@ -1,4 +1,4 @@
-package com.C147Tanush.assignment1;
+package com.C169Aaryan.assignment1;
 
 import androidx.room.Database;
 import androidx.room.RoomDatabase;
